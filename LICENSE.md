@@ -6,11 +6,11 @@ All rights reserved. This project and its source code are the exclusive property
 
 ## Usage Guidelines
 
-1. **Access and Viewing:** The code is provided for viewing purposes, and users are allowed to explore it for educational or reference purposes.
+1. **Access and Viewing:** Explore the code for educational or reference purposes.
 
-2. **Explicit Written Permission:** Any use, reproduction, distribution, or modification of this code for commercial or non-commercial purposes requires explicit written permission from the copyright holder.
+2. **Explicit Written Permission:** Commercial or non-commercial use, reproduction, distribution, or modification of this code requires explicit written permission from the copyright holder.
 
-3. **Contact Information:** For inquiries regarding the use of the code or to request permission, please contact the copyright holder at [hello@sashank.wiki](mailto:hello@sashank.wiki).
+3. **Contact Information:** For inquiries or permission requests, please contact the copyright holder at [hello@sashank.wiki](mailto:hello@sashank.wiki).
 
 ## Prohibited Actions
 
