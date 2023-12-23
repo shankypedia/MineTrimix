@@ -45,6 +45,6 @@ All rights reserved. This project and its source code are the exclusive property
 2. **Explicit Written Permission:** Commercial or non-commercial use requires explicit written permission.
 3. **Contact Information:** For inquiries or permission requests, contact the copyright holder at [hello@sashank.wiki](mailto:hello@sashank.wiki).
 
-Please see the [MineTrimix Proprietary License](LICENSE.md) for details.
+Please see the [MineTrimix Proprietary License](LICENSE.md) for more details.
 
 ---
