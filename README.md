@@ -1,7 +1,5 @@
 # MineTrimix
 
----
-
 ## Overview
 
 [MineTrimix](https://minetrimix.site) is a web-based Minecraft Armor Trim Generator. Personalize your armor trims with your own skins or use default Steve and Alex skins as placeholders. The theme is Minecraft-inspired, featuring a light/dark/system mode toggle for user convenience.
