@@ -1,8 +1,5 @@
 # MineTrimix
 
-## Website: [minetrimix.site](https://minetrimix.site)
-## Support email: [minetrimix@sashank.wiki](mailto:minetrimix@sashank.wiki)
-
 ---
 
 ## Overview
