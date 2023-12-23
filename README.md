@@ -28,6 +28,13 @@
 
 ---
 
+## Support
+
+- **Support email:** [minetrimix@sashank.wiki](mailto:minetrimix@sashank.wiki)
+- **Website:** [minetrimix.site](https://minetrimix.site)
+
+---
+
 ## License
 
 **MineTrimix - Proprietary License**
@@ -35,6 +42,7 @@
 **Copyright (c) 2023 Sashank Bhamidi**
 
 All rights reserved. This project and its source code are the exclusive property of the copyright holder. No part of the code may be reproduced, distributed, or modified in any form without explicit written permission from the copyright holder.
+
 
 ### Usage Guidelines
 
@@ -44,6 +52,6 @@ All rights reserved. This project and its source code are the exclusive property
 
 3. **Contact Information:** For inquiries regarding the use of the code or to request permission, please contact the copyright holder at [hello@sashank.wiki](mailto:hello@sashank.wiki).
 
-## License
+Please see the [MineTrimix Proprietary License](LICENSE.md) for more details.
 
-Please see the [MineTrimix Proprietary License](LICENSE.md) for details.
+---
