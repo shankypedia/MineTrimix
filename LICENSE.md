@@ -1,6 +1,6 @@
 # MineTrimix - Proprietary License
 
-**Copyright (c) 2023 Sashank Bhamidi**
+**Copyright (c) 2024 Sashank Bhamidi**
 
 All rights reserved. This project and its source code are the exclusive property of the copyright holder. No part of the code may be reproduced, distributed, or modified in any form without explicit written permission from the copyright holder.
 
